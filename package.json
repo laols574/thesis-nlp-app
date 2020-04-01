@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "a basic nlp application for charting counter speech",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laols574/thesis-nlp-app.git"
+  },
+  "keywords": [
+    "nlp",
+    "app",
+    "counterspeech"
+  ],
+  "author": "laols574",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laols574/thesis-nlp-app/issues"
+  },
+  "homepage": "https://github.com/laols574/thesis-nlp-app#readme",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
+}
